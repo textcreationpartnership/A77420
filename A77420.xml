@@ -1,0 +1,281 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A brief description of an edition of the Bible, in the original Hebr. Samar. and Greek, with the most ancient translations of the Jewish and Christian churches, viz. the Sept. Greek, Chaldee, Syriack, Æthiopick, Arabick, Persian, &amp;c. and the Latine versions of them all, a new apparatus, &amp;c.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 27 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77420</idno>
+            <idno type="STC">Wing B4566A</idno>
+            <idno type="STC">ESTC R173275</idno>
+            <idno type="EEBO-CITATION">43663196</idno>
+            <idno type="OCLC">ocm 43663196</idno>
+            <idno type="VID">171933</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77420)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171933)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2602:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A brief description of an edition of the Bible, in the original Hebr. Samar. and Greek, with the most ancient translations of the Jewish and Christian churches, viz. the Sept. Greek, Chaldee, Syriack, Æthiopick, Arabick, Persian, &amp;c. and the Latine versions of them all, a new apparatus, &amp;c.</title>
+               </titleStmt>
+               <extent>[4] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by R. Norton for Timothie Garthwait Stationer, at the lesser North-gate of S. Pauls Church, London.</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1652.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Imperfect: faded, creased and worn, with loss of text.</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  Polyglot x Publication and distribution --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-02</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2012-02</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="part">
+            <pb facs="tcp:171933:1" rendition="simple:additions"/>
+            <head>A Brief Deſcription of an Edition of the <hi>Bible,</hi> in the Original <hi>Hebr. Samar.</hi> and <hi>Greek,</hi> with the moſt ancient Tranſlations of the <hi>Jewiſh</hi> and <hi>Chriſtian Churches, viz.</hi> The <hi>Sept. Greek, Chaldee, Syriack, Aethiopick, Arabick, Perſian, &amp;c.</hi> and the <hi>Latine</hi> verſions of them all, A new <hi>Apparatus, &amp;c.</hi>
+            </head>
+            <p>
+               <note place="margin">The uſe of an<g ref="char:EOLunhyphen"/>cient Copies and Tranſla<g ref="char:EOLhyphen"/>tions compa<g ref="char:EOLhyphen"/>red with the Text.</note>
+               <seg rend="decorInit">W</seg>Hereas the ground of Faith is the Word of God, contained in the Scriptures, it muſt needs be a work of higheſt conſequence to preſerve thoſe <hi>Sacred Oracles</hi> in their original purity, freed (as much as may be) from all poſſibility of Error, that may ariſe either by the neg<g ref="char:EOLhyphen"/>ligence of Scribes, and injury of Times, or by the wilful corruption of Sectaries and He<g ref="char:EOLhyphen"/>reticks, which (as was foretold) abound in theſe latter times, and ſo to tranſmit them to Poſterity.</p>
+            <p>To this end nothing can more conduce then the publiſhing of the <hi>Original Text,</hi> ac<g ref="char:EOLhyphen"/>cording to the beſt Copies and Editions, with the moſt ancient <hi>Tranſlations,</hi> which have been of greraeſt Au<g ref="char:EOLhyphen"/>thority in the Church, eſpecially thoſe of the <hi>Eaſtern Languages;</hi> which in regard of their affinity and neer<g ref="char:EOLhyphen"/>neſſe to the Original are fitteſt to expreſſe, and in regard of their Antiquity and general uſe in the firſt and pureſt Ages are the trueſt Glaſſes, to repreſent that ſence and reading which was then generally received in the Church of Chriſt, to whoſe Care the cuſtody of the Scriptures is committed: The comparing of which toge<g ref="char:EOLhyphen"/>ther hath alwayes been accounted one of the beſt means to attain the true ſence in places doubtful, and to finde out and reſtore the true reading of the Text where any variety appears.</p>
+            <p>Beſides this, the <hi>Harmonie</hi> and <hi>Conſent</hi> of ſo many ancient Copies and Tranſlations made in ſeveral Ages, and Parts of the World, ſo far remote one from another, and continued to this day, agreeing in all matters of moment, are no leſſe the voice of God teſtifying from Heaven that thoſe Books proceeded from a divine Au<g ref="char:EOLhyphen"/>thor, who hath ſo marvellouſly owned and preſerved them in all parts of the World among ſo many changes and revolutions that have happened, maugre the malice and power of Sathan, labouring by Hereticks, and Sectaries to corrupt, and by Perſecutors to extirpate the Scriptures, and therewith Chriſtian Religion.</p>
+            <p>Therefore in the greateſt Empires and Kingdoms of the World, God hath ſo ordered by his wiſe Providence, that the Scriptures have been either originally written, or tranſlated into theſe Languages, and by that means ſpread over the World (though beſides the intention of the Conquerours) as appears by the <hi>Hebrew</hi> and <hi>Greek</hi> Originals, the <hi>Syriack, Chaldee, Perſiar, Arabick, Latin, Ethiopick.</hi> and other Tranſlations, in which the Praiſes of God have been ſounded forth over the World, by means of the <hi>Aſſyrian, Greek, Perſian, Romans, &amp;c.</hi> Conqueſts and Victories.</p>
+            <p>
+               <note place="margin">Origens Te<g ref="char:EOLhyphen"/>trapla, Hex<g ref="char:EOLhyphen"/>apla, &amp;c.</note>Hence it was that when <hi>Origen</hi> compoſed his <hi>Tetrapla, Hexapla,</hi> and <hi>Octopla,</hi> though they conſiſted onely of the <hi>Hebrew</hi> and diverſe <hi>Greek</hi> Tranſlations diſpoſed in ſeveral Columns, yet they were received with ſuch general applauſe, that as S. <hi>Hierom</hi> ſaith, they preſently filled all Libraries.</p>
+            <p>The like care hath been taken in this laſt Age, by ſundry Editions of the Original Texts, and of ſundry an<g ref="char:EOLhyphen"/>cient Tranſlations, made by the Pains and Induſtry of Learned Men, and by the munificence of <hi>Princes</hi> and others, yet none of them are ſo compleat and perfect (though of great uſe and high eſteem in the Church) but that the diligence of thoſe that come after, may adde ſomething to perfect the work which they begun, as the Authors of thoſe Editions have done to thoſe before them.</p>
+            <p>
+               <note place="margin">The chief Editions of this laſt age.</note>The chief Editions of this laſt Age (not to mention thoſe by <hi>Bamberg, Vatablus, Buxtorf. Stephan Mun<g ref="char:EOLhyphen"/>ſter, Hutter,</hi> and others) are
+<list>
+                  <item>1. The <hi>Complutenſe.</hi>
+                  </item>
+                  <item>2. The <hi>Antwerp.</hi>
+                  </item>
+                  <item>3. The <hi>Pariſian.</hi>
+                  </item>
+               </list>
+            </p>
+            <p n="1">1. The <hi>Complutenſe</hi> was ſet forth by the <hi>Complutenſe</hi> Divines, at the charges of Cardinal <hi>Ximineus,</hi> Arch-Biſhop of <hi>Toledo</hi> in ſix Volumes, <hi>Anno</hi> 1520, wherein is contained,
+<list>
+                  <item>1. The Old Teſt. <hi>Heb.</hi>
+                  </item>
+                  <item>2. The vul<g ref="char:EOLhyphen"/>gar <hi>Latine.</hi>
+                  </item>
+                  <item>3. The Sept. <hi>Greek</hi> and <hi>Latine.</hi>
+                  </item>
+                  <item>4. The <hi>Chaldee</hi> Paraphraſe by <hi>Onkelos</hi> upon the <hi>Pentateuch,</hi> with the Latine Tranſlation.</item>
+                  <item>5. The New Teſtament Greek and Latine.</item>
+                  <item>6. An <hi>Apparatus,</hi> conſiſting of an Heb. and Chald. <hi>Lexicon.</hi>
+                  </item>
+               </list> An Heb. Grammar, An Index, &amp;c.</p>
+            <p n="2">2. The <hi>Antwerp</hi> Bibles in eight great Volumes, ſet forth by <hi>Arias Montanus,</hi> and other Learned Men, at the charges of the King of <hi>Spain, Anno</hi> 1572. wherein is added to the <hi>Complutenſe,</hi>
+               <list>
+                  <item>1. The <hi>Chaldee Paraphraſe</hi> upon the reſt of the Old Teſtament, by <hi>Jonathan</hi> and <hi>Joſephus Caecus,</hi> with the Latine.</item>
+                  <item>2. The Interlineal Tranſlation of the Old and New Teſtament.</item>
+                  <item>3. The <hi>Syriack</hi> New Teſtament in Syriack and Hebrew Chara<g ref="char:EOLhyphen"/>cters with the Latine.</item>
+                  <item>4. An <hi>Apparatus</hi> in two Volumes, containing divers <hi>Lexicons</hi> and <hi>Grammars, Hebrew, Syriack, Chaldee, Greek,</hi> with ſome Tracts for better underſtanding the Text.</item>
+               </list> Some <hi>Idiotiſms,</hi> few various readings, divers <hi>Indices,</hi> &amp;c.</p>
+            <p n="3">3. The <hi>Pariſian Bibles</hi> in ten large Tomes, <hi>Anno</hi> 1645. ſet forth by <hi>Michael de Jay, Morinus, Gabriel Sionita</hi> and others, by Authority of the Cardinals <hi>Richlieu,</hi> and <hi>Mazarine,</hi> and the <hi>French Biſhops,</hi> wherein is added to the <hi>Antwerpe</hi> Bible, which (except the <hi>Apparatus</hi>) is herewith reprinted,
+<list>
+                  <item>1. The old Teſt. <hi>Syriack,</hi> and <hi>Latine.</hi>
+                  </item>
+                  <item>2. The <hi>Arabick</hi> Old Teſt. and New with the Latine.</item>
+                  <item>3. The <hi>Samaritan Pentateuch,</hi> with the <hi>Sa<g ref="char:EOLhyphen"/>maritan</hi> and <hi>Latine</hi> Verſions.</item>
+               </list> But here is no Interlineal or other literal Tranſlation of the <hi>Hebrew</hi> in <hi>Latine,</hi> none of the <hi>Apparatus</hi> at all as in the other Editions, no <hi>various readings</hi> in any Language, no <hi>Index,</hi> no <hi>Idio<g ref="char:EOLhyphen"/>tiſms,</hi> (the edition being abruptly put forth, by reaſon of ſome difference among the Publiſhers) but only the <hi>Text</hi> in the ſeveral Languages, and thoſe not according to the beſt Copies.</p>
+            <p>Though theſe Editions be juſtly had in high eſteem, (the ſecond of which was ſtyled by ſome Learned Men, <hi>Orbis miraculum,</hi> though it come ſhort of the third) yet it muſt be confeſt that divers <hi>Ancient</hi> and <hi>Vſeful Tranſlations</hi> may be added, that there are <hi>better Copies</hi> now, then thoſe followed in the former Editions, that many things uſeful then, yet needleſſe now may be taken away,<note place="margin">A new Editi<g ref="char:EOLhyphen"/>on more per<g ref="char:EOLhyphen"/>fect and uſe<g ref="char:EOLhyphen"/>ful then any yet extant, and at a far leſſe price.</note> that a new <hi>Apparatus</hi> far more uſeful may be framed, and the ſeveral Languages digeſted in better Method, beſidas the greatneſſe of the price, and vaſtneſſe of the Volumes, which makes them ſcarce uſeful for private Libraries, being printed in ſuch <hi>Paper</hi> and <hi>Cha<g ref="char:EOLhyphen"/>racters,</hi> as ſerved rather for <hi>Pomp</hi> then <hi>Vſe,</hi> (that of <hi>Paris</hi> being ſold at 45. or 50 li. the price of an ordinary <hi>Librarie</hi>) ſo that without detracting from the juſt praiſes of the publiſhers (whoſe Labours muſt be made uſe of, as they did of other mens that were before them) it may be ſaid, that a <hi>more perfect</hi> and <hi>uſeful Edition</hi> then any yet extant may be made in 5 or 6 <hi>ordinary Volumes,</hi> which may be had at a fourth or fift <hi>part of the price</hi> of thoſe of <hi>Paris,</hi> or thereabouts. The ſeveral parts whereof follow.</p>
+            <p>1. The Old Teſtament <hi>Heb.</hi> and the New Teſt. <hi>Greek,</hi> with the literal <hi>Interlineal Tranſlation</hi> which is want<g ref="char:EOLhyphen"/>ing in the <hi>Paris</hi> and <hi>Complutenſe Bibles.</hi>
+            </p>
+            <p>2. The <hi>Vulgar Latine</hi> according to the accurate Edition of <hi>Sixtus Quintus,</hi> and <hi>Clem.</hi> 8. wherein many 1000 errors and faults of the former Editions are corrected, as appears by the <hi>Catalogue</hi> ſet forth by <hi>Lucas Brugenſis.</hi>
+            </p>
+            <p>3. The <hi>Roman Sept.</hi> the <hi>Greek</hi> whereof was printed by the moſt ancient <hi>Vatican</hi> Copy, written (as is con<g ref="char:EOLhyphen"/>ceived) before S. <hi>Hieroms</hi> time, which is without doubt the moſt <hi>authentick</hi> of any yet extant. The <hi>Latine</hi>
+               <pb facs="tcp:171933:2"/>was gathered out of the Monuments of the moſt <hi>ancient</hi> Writers, by the great induſtry of <hi>Nobilius,</hi> whereby the old <hi>vulgar Latine</hi> uſed in the <hi>Weſt</hi> (before S. <hi>Hieroms</hi> Tranſlation) is reſtored and preſerved: whereas the <hi>Sept.</hi> followed in the other Editions is made only to agree with the <hi>Modern Heb.</hi> and accordingly enlarged or cut ſhort, and may better be called a new <hi>Greek</hi> Tranſlation of the <hi>Modern Heb.</hi> then a true Edition of the <hi>Old Septuagint.</hi>
+            </p>
+            <p>4. The <hi>Chaldee Paraphraſe</hi> on the Old Teſt. by <hi>Onkelos</hi> upon the <hi>Pentateuch,</hi> and by <hi>Jonathan</hi> upon <hi>Joſh. Judg. Sam. Kings,</hi> and <hi>Prophets,</hi> about our Saviours time; and by <hi>Joſ. Caecus</hi> upon the reſt, written afterwards. All according to <hi>Buxtorf.</hi> his exact Edition, wherein many thouſand errors are corrected, and the <hi>Points</hi> which were added by ſome ignorant Jew after the invention of <hi>Points,</hi> are rectified and reduced to the Analogie of <hi>Ezra</hi> and <hi>Daniel,</hi> which was only in part attempted by <hi>Arias Montanus,</hi> but not perfected as himſelf acknow<g ref="char:EOLhyphen"/>ledges. The <hi>Latine Tranſlation</hi> alſo amended according to <hi>Paulus Fagius,</hi> and others.</p>
+            <p>5. The <hi>Syriack</hi> Old and New Teſt. (the native Language of <hi>Chriſt</hi> and his <hi>Apoſtles</hi>) corrected by Copies tranſcribed out of the moſt ancient and perfect <hi>M. S.</hi> remaining with the <hi>Patriarch</hi> of <hi>Antioch,</hi> which is ac<g ref="char:EOLhyphen"/>cording to the <hi>old</hi> and <hi>ſimple Edition</hi> (as 'tis called) tranſlated out of the <hi>Heb.</hi> about the <hi>Apoſtles</hi> times (the other <hi>Syriack Edition</hi> out of the <hi>Sept.</hi> being long after.) That of the <hi>Paris Bibles</hi> had many <hi>Lacuna's,</hi> which they ſupplied <hi>ex proprio ingenio.</hi>
+            </p>
+            <p>6. The <hi>Arabick</hi> Old and New Teſt. corrected and compared with thoſe parts ſet out by <hi>Erpenius</hi> and others, and with other Copies here in publick and private Libraries.</p>
+            <p>7. The <hi>Samaritan Pentateuch</hi> (the old <hi>Heb.</hi> Text, as is conceived, about <hi>Eſdras</hi> his time, if not before) in the <hi>Samaritan Character,</hi> which is the <hi>Old Heb. Letter,</hi> before <hi>Eſaras</hi> changed it into the <hi>Aſſyrian</hi> (the <hi>modern Hebrew</hi>) after the return from <hi>Babylon.</hi>
+            </p>
+            <p>8. The <hi>Perſian Pentateuch,</hi> by <hi>Jacobus Thawaſus</hi> (formerly printed by the <hi>Jews</hi> in the <hi>Conſtantinop. Bibles</hi> in <hi>Heb. Characters</hi>) put into <hi>Perſian Characters</hi> and tranſlated into <hi>Latine,</hi> not extant before in any of thoſe other Editions.</p>
+            <p>9. The <hi>Perſian Evangeliſts,</hi> with the <hi>Latine</hi> Verſion, which are now at the Preſſe, publiſhed by Mr. <hi>Whee<g ref="char:EOLhyphen"/>lock</hi> a learned <hi>Linguiſt,</hi> and not extant heretofore.</p>
+            <p>10. The <hi>Aethiopick Pſalms, Canticles,</hi> and <hi>New. Teſt.</hi> with the <hi>Latine</hi> Verſion, not extant in any former Edition.</p>
+            <p>11. <hi>Jonathans Targum</hi> upon the <hi>Pent.</hi> The <hi>Hieruſalem Targum</hi> upon the <hi>Pent.</hi> with the <hi>Latine</hi> tranſlation by <hi>Pellican</hi> or <hi>Taylor.</hi> The <hi>Maſſoreth Heb. Lat.</hi> with <hi>Buxtorf.</hi> his <hi>Clavis Maſſorethica,</hi> and his <hi>Caſtigationes Maſſorae.</hi> All which may be added, as an <hi>Appendix</hi> to the Old Teſt. None of them are in thoſe other Editions.</p>
+            <p>12. The ſeveral <hi>Languages</hi> ſhall be printed in ſeveral Columns, whereby they may all be preſented to the Readers view <hi>at once,</hi> whereas in the other Editions divers great Volumes muſt be turned over to compare them together.</p>
+            <p>13. Whereas there is no <hi>Apparatus</hi> or <hi>various readings,</hi> &amp;c. in the <hi>Paris Bibles,</hi> and the <hi>Apparatus</hi> in the <hi>An<g ref="char:EOLhyphen"/>twerp.</hi> and <hi>Complut.</hi> conſiſting of <hi>Grammars, Lexicons, Tracts,</hi> &amp;c. are not ſo needful now, there being ſo many helps extant ſince, and thoſe more exact. Therefore here ſhall be added, what is moſt neceſſary and proper, and yet is wanting in the former, <hi>viz.</hi> A juſt Volume of the <hi>various readings</hi> of all former <hi>Editions</hi> and <hi>Copies,</hi> in all the Languages (a work of as great uſe to the Reader, as if he had all former Copies and Editions) with ſome other things fit to be added, <hi>viz.</hi>
+               <list>
+                  <item>1. An <hi>Extract</hi> out of <hi>Capellus</hi> his <hi>Critica Sacra</hi> and others concerning the various readings. <hi>Lucas Brug. de variantibus locis Scripturae,</hi> and his two Tracts
+<list>
+                        <item>1. <hi>de Graecis</hi>
+                        </item>
+                        <item>2. <hi>de Latinis varietatibus.</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <item>2. The <hi>Keri</hi> and <hi>Cetib,</hi> &amp;c. with the other various readings of the <hi>Heb.</hi>
+                  </item>
+                  <item>3. The differences of the <hi>Samar. Pentateuch</hi> from the <hi>Modern Heb.</hi> collected heretofore by D. <hi>Comber.</hi>
+                  </item>
+                  <item>4. The various readings of the 70. and the other old <hi>Greek</hi> Tranſlations by <hi>Aquila, Theodotion, Symmachus,</hi> the 5. and 6 <hi>anonymous</hi> Tranſlations, collected by <hi>Nobilius</hi> in the <hi>Rom. Sept.</hi> and by <hi>Druſius</hi> in his <hi>Fragmenta veterum tranſlationum Graec.</hi> to which may be added the diffe<g ref="char:EOLhyphen"/>rent Readings of that ancient M. S. The <hi>Alexandrian Sept.</hi> (ſuppoſed by ſome to be written by S. <hi>Tecla</hi>) which is now about to be printed.</item>
+                  <item>5. The various readings and corrections of the vulgar <hi>Latine</hi> collected by <hi>Luc. Brugenſ.</hi> in ſeveral Tracts.</item>
+                  <item>6. The places reſtored in the <hi>Chaldee Paraph.</hi> by <hi>Buxtorf.</hi> with a Tract by him thereupon written, but not yet printed, and a Tract of the uſe of the <hi>Chaldee Paraph.</hi> by <hi>Luc. Brugenſ.</hi>
+                  </item>
+                  <item>7. The places reſtored and corrected in the <hi>Syr.</hi> and <hi>Arab.</hi> with the various readings out of <hi>Erpenius</hi> and o<g ref="char:EOLhyphen"/>thers.</item>
+                  <item>8. The various readings of the New Teſt. by <hi>Stephan. Cauſabon</hi> and others, with the readings out of the <hi>Greek Fathers</hi> gathered in the <hi>Wechel.</hi> Edition of the 70. at <hi>Frank.</hi> 1597.</item>
+                  <item>9. The various readings and notes upon the <hi>Syr. Arab. Perſian, Cophti,</hi> &amp;c. Verſions of the New Teſt. out of <hi>Lud. de Dieu, Munſter, Kir<g ref="char:EOLhyphen"/>kenſten,</hi> M. <hi>Pocock</hi> and others.</item>
+                  <item>10. The <hi>Idiotiſms</hi> of the <hi>Heb.</hi> and <hi>Greek.</hi>
+                  </item>
+                  <item>11. The explication of the proper Names in Script. <hi>Heb. Greek, Latine.</hi>
+                  </item>
+                  <item>12. A perfect Chronology.</item>
+                  <item>13. Several <hi>Indices.</hi>
+                  </item>
+               </list> 
+            </p>
+            <p>14. Before all.
+<list>
+                  <item>1. Divers <hi>Prolegomena</hi> and <hi>Prefaces</hi> concerning the ſeveral Editions and Tranſlations, their <hi>Antiquity, Authority,</hi> and <hi>Vſe.</hi>
+                  </item>
+                  <item>2. <hi>Geographical Tables</hi> of the World. The land of <hi>Canaan.</hi>
+                  </item>
+                  <item>3. <hi>Arias Monta<g ref="char:EOLhyphen"/>nus</hi> his <hi>Exemplar, ſeu de ſacris fabricis,</hi> and his <hi>Aaron ſeu de veſtibus ſacris,</hi> with the Figures cut in Braſſe.</item>
+                  <item>4. <hi>Alphabetical Tables</hi> of the ſeveral Languages, and what elſe upon further adviſe with Learned Men ſhall be thought fit.</item>
+               </list> 
+            </p>
+            <div type="subpart">
+               <head>The Approbation of ſeveral Eminent and Learned Men.</head>
+               <p>WHereas there hath been preſented unto us a Draught of an Edition of the Bible in the Original and other learned <hi>Languages,</hi> with a proof or printed Paper, wherein the ſame are in ſeveral Columns repreſented to the Readers view <hi>at once,</hi> and that (as is ſuggested) according to better copies and Editions,<note place="margin">The Appro<g ref="char:EOLhyphen"/>bation by learned men.</note> then thoſe of the <hi>Complut. Antwerp.</hi> and <hi>Paris Bibles,</hi> beſides ſundry needful Additions which are wanting in them, whereby the Edition will become more perfect, and fitter for uſe then thoſe formerly mentioned, and yet the <hi>Price</hi> very <hi>much leſſened;</hi> We whoſe names are ſubſcribed, having viewed, and well conſidered the ſaid De<g ref="char:EOLhyphen"/>ſigne, and being deſired to give our judgements and opinions thereof, do conceive, that both in regard of the ſaid Editions and Copies which are more exact and perfect, then thoſe followed in the other Bibles, and of the various Readings and additions mentioned in the ſaid Draught, as alſo of the method and order, wherein the ſaid Languages are digested, this Work will become more compleat and per<g ref="char:EOLhyphen"/>fect, and alſo more uſeful then any that hath been hitherto publiſhed in that kinde, and that the printing thereof will conduce much to the Glory of God, and the publick Honour of our Nation. And therefore we do heartily deſire that it may receive all due encourage<g ref="char:EOLhyphen"/>ment from all whom it may concern. <hi>Ja. Armachanus. J. Selden.</hi>
+               </p>
+               <p>To theſe may be added the concurrent Suffrage of divers others, the moſt Reverend and Learned men of this Church, whoſe ſeveral Teſtimonies would be too long to inſert, but ſhall be produced if there be occaſion.</p>
+               <p>
+                  <note place="margin">The Appro<g ref="char:EOLhyphen"/>bation of the Councel of State.</note>The <hi>Councel</hi> of <hi>State</hi> by their Order bearing date <hi>Sunday</hi> the <hi>11</hi> of <hi>July 1652.</hi> have given their <hi>Approbation</hi> and <hi>Allow<g ref="char:EOLhyphen"/>ance</hi> of the Work, declaring the ſame to <hi>very honourable,</hi> and <hi>deſerving encouragement.</hi> And tis hoped they will promote the publiſhing of it.</p>
+            </div>
+         </div>
+         <div type="part">
+            <pb facs="tcp:171933:2"/>
+            <head>Propoſitions concerning the Printing of the Bible in the Original and other Learned Languages.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas the former <hi>Editions</hi> though leſſe perfect, and not ſo fit for uſe, have been Printed at the publick Charge of <hi>Princes</hi> and great Perſons, and the Charge of this Work will exceed the Ability of an ordinary perſon: Whereupon divers <hi>Perſons</hi> of <hi>Worth</hi> have expreſſed their readineſs to joyn in the Charge of the <hi>Impreſſion,</hi> and it is hoped that others who wiſh well to <hi>Learning</hi> and <hi>Religion</hi> will aſſiſt in a Work ſo much ten<g ref="char:EOLhyphen"/>ding to the <hi>publick good,</hi> and <hi>Honour of the Church</hi> and <hi>Nation,</hi> and ſo free from <hi>Inte<g ref="char:EOLhyphen"/>reſt</hi> of all parties, eſpecially conſidering, that as the Edition will be much better then any formerly made, ſo the price will be much leſſe.</p>
+            <p>Therefore for the ſecuring of all ſuch as ſhall promote ſo good a Work either by <hi>free gift,</hi> or <hi>advancing</hi> of Moneyes to be repaid by Copies, and for the encouraging of ſuch as ſhall ſolicit and ſtir up others to <hi>contribute,</hi> theſe Propoſitions are offered, which ſhall God willing be performed.</p>
+            <p n="1">1. That whatſoever Moneyes ſhall be raiſed, ſhall be paid into the Hands of <hi>William Humble</hi> of <hi>Lon<g ref="char:EOLhyphen"/>don</hi> Eſquire, <hi>Treaſurer</hi> for this purpoſe, who will be accomptable for the Moneyes received, and will give Receipts to every one that ſhall pay in any Moneyes, whereby they may be aſſured that the ſame ſhall be employed no otherwiſe then for the uſe intended, and not iſſued out but by Warrant of ſuch per<g ref="char:EOLhyphen"/>ſons as are hereafter mentioned.</p>
+            <p n="2">2. The like aſſurance ſhall be given for receiving of Copies proportionable to the ſummes ſo paied, which ſhall be put into the hands of ſome perſons Intereſted, reſiding in <hi>London</hi> to be delivered aſſoon as the Work ſhall be finiſhed, or otherwiſe as the ſeveral Volumes ſhall be printed, according as ſhall be adviſed by counſel on the behalf of the ſubſcribers, and this ſhall be drawn up into Articles, before any Moneyes ſhall be payed.</p>
+            <p n="3">3. The <hi>Treaſurer</hi> ſhall not iſſue any Moneyes, but by Warrant under the Hands of the Lord Primate of <hi>Armagh,</hi> D. <hi>William Fuller,</hi> D. <hi>Brune Rieves,</hi> D. <hi>Samuel Baker,</hi> M. <hi>Richard Drake,</hi> B. D. or two of them, whereof the Lord <hi>Primate,</hi> or D. <hi>Fuller,</hi> to be one, and ſhall give <hi>Accompt</hi> every <hi>ſix moneths</hi> to four perſons appointed by thoſe that advance, to receive the Accompts of all Moneyes received, or iſſued out, which ſhall be ſhewed to all perſons intereſted who ſhall deſire the ſame.</p>
+            <p n="4">4. Thoſe that by <hi>free gift</hi> or otherwiſe ſhall in any conſiderable manner further the Work, beſide <hi>Co<g ref="char:EOLhyphen"/>pies</hi> to be given them, ſhall be acknowledged <hi>Patrons</hi> and <hi>Promoters</hi> of ſo <hi>noble a Work.</hi>
+            </p>
+            <p n="5">5. Thoſe that ſhall <hi>collect</hi> and <hi>raiſe any ſum</hi> by the <hi>free contribution</hi> of Perſons well affected ſhall for every ten pounds have one Copie: and if any leſſer ſum of 40 s. or upwards be ſo raiſed by any at pre<g ref="char:EOLhyphen"/>ſent, if the ſaid ſum ſhall be made up 10 li. by equal payments in four ſix <hi>moneths</hi> next following, he ſhall have <hi>one perfect Copie,</hi> and ſo according to that proportion for any greater Sum.</p>
+            <p n="6">6 Thoſe who ſhall advance any ſum out of their own eſtate, ſhall for every 10 li. have <hi>one Copie,</hi> and for 50 li. <hi>ſix Copies,</hi> and ſo for any greater ſum, and the moneyes ſo advanced ſhall for the <hi>Eaſe</hi> and <hi>Se<g ref="char:EOLhyphen"/>curity</hi> of the Advancers be paid thus: onely a <hi>fifth part</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n hand, and the reſt in 4 <hi>ſix moneths,</hi> and at every ſix moneths Payment, <hi>Account</hi> ſhall be given of the Moneyes formerly paid, and of the <hi>Progreſſe</hi> of the Work, and then they may alſo receive ſuch Volumes a ſhall be finiſhed, according to the number of Copies due to them, if they pleaſe, they paying another fift part towards the printing of the next Vo<g ref="char:EOLhyphen"/>lume. And if 50 li. ſhall be raiſed by ſeveral perſons, the ſixth Copie ſhall be to him that procureth their ſubſcriptions.</p>
+            <p n="7">7. The perſons that will aſſiſt in preparing of Copies correcting the Preſſe, overſeeing and managing the work, or otherwiſe in furthering the Edition, are D. <hi>Stokes,</hi> Mr. <hi>Whillock,</hi> M. <hi>Thorndike,</hi> Mr. <hi>Ed<g ref="char:EOLhyphen"/>ward Pococke,</hi> Mr.
+<gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> 
+               <hi>Graves,</hi> Mr. <hi>Vicars,</hi> Mr. <hi>Thomas Smith,</hi> together with Dr. <hi>Walton,</hi> and ſome other to aſſiſt in Proſecution of Buſineſſe, &amp;c. and if any of them ſhall be otherwiſe hindred; ſome other ſhall be nominated, for carrying on the work, whe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ein the Advice of the L. <hi>Primate,</hi> M. <hi>Selden,</hi> D. <hi>Shelden,</hi> D. <hi>Sanderſon,</hi> D. <hi>Stern,</hi> D. <hi>Hammond,</hi> D. <hi>Fearne,</hi> 
+               <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> and other learned Men, who have approved the work ſhall be deſired, as occaſion ſhall require.</p>
+            <p n="8">8. The work ſhall not be begun till there be enough pa<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> in to finiſh the firſt Volume, <hi>viz.</hi> the <hi>Pen<g ref="char:EOLhyphen"/>tateuch, viz.</hi> 1500 li. nor the other Volumes, till a proportionable ſum for each be brought in, <hi>viz.</hi> a<g ref="char:EOLhyphen"/>bout 1200 li.</p>
+            <p n="9">9. It is deſired that the firſt payment of Moneyes to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e advanced, may be at or before the firſt of <hi>May,</hi> 1653. and if it ſhall appear there is enough to print <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e Firſt Volume, <hi>viz.</hi> the <hi>Pentateuch,</hi> the work ſhall be begun aſſoon as things needful can be prepared, which is hoped will be within three Moneths then next following, and within three Yeers after, it is hoped the whole work will be perfected: (two Preſſes being kept at work.)</p>
+            <p n="10">10. Whatſoever ſhall be further reaſonably deviſed or p<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>opounded for the better managing and car<g ref="char:EOLhyphen"/>rying on of the Work, and ſecuring of all Perſons intereſted, ſhall be willingly aſſented unto.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed by <hi>R. Norton</hi> for <hi>Timothie Gart<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>wait</hi> Stationer, at the leſſer North-gate of S. <hi>Pauls</hi> Church, <hi>London.</hi> 1652.</p>
+         </div>
+         <div type="notice">
+            <pb facs="tcp:171933:3" rendition="simple:additions"/>
+            <p>WE whoſe Names are ſubſcribed, do hereby promiſe to pay the ſeveral Sums by us underwritten, upon the Propoſitions for Printing the Bible in the O<g ref="char:EOLhyphen"/>riginal and other learned Languages, according to a Deſcription, and <hi>Spe<g ref="char:EOLhyphen"/>cimen</hi> thereof Printed. Which Sums ſhall be paid in one or more Payments, accord<g ref="char:EOLhyphen"/>ing as is ſubſcribed. Provided that before payment of the ſaid Moneyes, it ſhall be certified under the Hand of the Treaſurer, that the Subſcriptions and Contributions, will amount to ſuch a Sum as will be ſufficient for carrying on the Work, according to the ſaid Propoſitions and that ſuch order be taken for ſecuring the Copies to the Subſcribers, as by adviſe of Councel on their behalf ſhall be thought reaſonable, and juſt.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
